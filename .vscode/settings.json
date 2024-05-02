@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "pk.h": "c",
+        "error.h": "c",
+        "rsa.h": "c",
+        "esp_config.h": "c",
+        "asn1.h": "c",
+        "platform_util.h": "c",
+        "bignum.h": "c",
+        "functional": "c",
+        "threading.h": "c"
+    }
+}
