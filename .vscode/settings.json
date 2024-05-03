@@ -8,6 +8,8 @@
         "platform_util.h": "c",
         "bignum.h": "c",
         "functional": "c",
-        "threading.h": "c"
+        "threading.h": "c",
+        "ctr_drbg.h": "c",
+        "rsa_2048.h": "c"
     }
 }
